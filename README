@@ -1,0 +1,2 @@
+Playback nico videos with the comments as subtitles.
+Requirements: python3, ffmpeg, ffprobe, mpv
